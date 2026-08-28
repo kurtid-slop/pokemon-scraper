@@ -1,0 +1,14 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1023 Pokemon already scraped in pokemon-data.json.
+1 Pokemon left to scrape.
+
+[32/1025] Nidoran♂ -> https://bulbapedia.bulbagarden.net/wiki/Nidoran%E2%99%82_(Pokémon)
+  OK: {"name":"Nidoran♂","primaryType":"Poison","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Monster and Field","height":"1'08\"","weight":"19.8 lbs.","genderRatio":"100% male","catchRate":"235 (41.3%)","hatchTime":"20 cycles"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

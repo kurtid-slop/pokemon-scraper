@@ -1,0 +1,14 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1023 Pokemon already scraped in pokemon-data.json.
+1 Pokemon left to scrape.
+
+[250/1025] Ho-Oh -> https://bulbapedia.bulbagarden.net/wiki/Ho-Oh_(Pokémon)
+  OK: {"name":"Ho-Oh","primaryType":"Fire","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"12'06\"","weight":"438.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

@@ -1,0 +1,20 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1021 Pokemon already scraped in pokemon-data.json.
+3 Pokemon left to scrape.
+
+[899/1025] Wyrdeer -> https://bulbapedia.bulbagarden.net/wiki/Wyrdeer_(Pokémon)
+  OK: {"name":"Wyrdeer","primaryType":"Normal","secondaryType":"Psychic","forms":[],"evolutionStage":"final","preEvolvePokemon":"Stantler","eggGroups":"Field","height":"5'11\"","weight":"209.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[900/1025] Kleavor -> https://bulbapedia.bulbagarden.net/wiki/Kleavor_(Pokémon)
+  OK: {"name":"Kleavor","primaryType":"Bug","secondaryType":"Rock","forms":[],"evolutionStage":"final","preEvolvePokemon":"Scyther","eggGroups":"Bug","height":"5'11\"","weight":"196.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"15 (5.2%)","hatchTime":"20 cycles"}
+
+[901/1025] Ursaluna -> https://bulbapedia.bulbagarden.net/wiki/Ursaluna_(Pokémon)
+  OK: {"name":"Ursaluna","primaryType":"Ground","secondaryType":"Normal","forms":[],"evolutionStage":"final","preEvolvePokemon":"Ursaring","eggGroups":"Field","height":"7'10\"","weight":"639.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"20 (6.5%)","hatchTime":"20 cycles"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

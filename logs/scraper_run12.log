@@ -1,0 +1,47 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1012 Pokemon already scraped in pokemon-data.json.
+12 Pokemon left to scrape.
+
+[280/1025] Ralts -> https://bulbapedia.bulbagarden.net/wiki/Ralts_(Pokémon)
+  OK: {"name":"Ralts","primaryType":"Psychic","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Human-Like and Amorphous","height":"1'04\"","weight":"14.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"235 (41.3%)","hatchTime":"20 cycles"}
+
+[281/1025] Kirlia -> https://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pokémon)
+  OK: {"name":"Kirlia","primaryType":"Psychic","secondaryType":"Fairy","forms":[],"evolutionStage":"2","preEvolvePokemon":"Ralts","eggGroups":"Human-Like and Amorphous","height":"2'07\"","weight":"44.5 lbs.","genderRatio":"50% male, 50% female","catchRate":"120 (24.9%)","hatchTime":"20 cycles"}
+
+[282/1025] Gardevoir -> https://bulbapedia.bulbagarden.net/wiki/Gardevoir_(Pokémon)
+  OK: {"name":"Gardevoir","primaryType":"Psychic","secondaryType":"Fairy","forms":["Mega Gardevoir"],"evolutionStage":"final","preEvolvePokemon":"Kirlia","eggGroups":"Human-Like and Amorphous","height":"5'03\"","weight":"106.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[328/1025] Trapinch -> https://bulbapedia.bulbagarden.net/wiki/Trapinch_(Pokémon)
+  OK: {"name":"Trapinch","primaryType":"Ground","secondaryType":"Bug","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Bug and Dragon","height":"2'04\"","weight":"33.1 lbs.","genderRatio":"50% male, 50% female","catchRate":"255 (43.9%)","hatchTime":"20 cycles"}
+
+[329/1025] Vibrava -> https://bulbapedia.bulbagarden.net/wiki/Vibrava_(Pokémon)
+  OK: {"name":"Vibrava","primaryType":"Ground","secondaryType":"Dragon","forms":[],"evolutionStage":"2","preEvolvePokemon":"Trapinch","eggGroups":"Bug and Dragon","height":"3'07\"","weight":"33.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"120 (24.9%)","hatchTime":"20 cycles"}
+
+[330/1025] Flygon -> https://bulbapedia.bulbagarden.net/wiki/Flygon_(Pokémon)
+  OK: {"name":"Flygon","primaryType":"Ground","secondaryType":"Dragon","forms":[],"evolutionStage":"final","preEvolvePokemon":"Vibrava","eggGroups":"Bug and Dragon","height":"6'07\"","weight":"180.8 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[475/1025] Gallade -> https://bulbapedia.bulbagarden.net/wiki/Gallade_(Pokémon)
+  OK: {"name":"Gallade","primaryType":"Psychic","secondaryType":"Fighting","forms":["Mega Gallade"],"evolutionStage":"final","preEvolvePokemon":"Kirlia","eggGroups":"Human-Like and Amorphous","height":"5'03\"","weight":"114.6 lbs.","genderRatio":"100% male","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[701/1025] Hawlucha -> https://bulbapedia.bulbagarden.net/wiki/Hawlucha_(Pokémon)
+  OK: {"name":"Hawlucha","primaryType":"Fighting","secondaryType":"Flying","forms":["Mega Hawlucha"],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying and Human-Like","height":"2'07\"","weight":"47.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"100 (21.7%)","hatchTime":"20 cycles"}
+
+[712/1025] Bergmite -> https://bulbapedia.bulbagarden.net/wiki/Bergmite_(Pokémon)
+  OK: {"name":"Bergmite","primaryType":"Ice","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Monster and Mineral","height":"3'03\"","weight":"219.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"190 (35.2%)","hatchTime":"20 cycles"}
+
+[713/1025] Avalugg -> https://bulbapedia.bulbagarden.net/wiki/Avalugg_(Pokémon)
+  OK: {"name":"Avalugg","primaryType":"Ice","secondaryType":"Rock","forms":["Hisuian Avalugg"],"evolutionStage":"final","preEvolvePokemon":"Bergmite","eggGroups":"Monster and Mineral","height":"6'07\"","weight":"1113.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"55 (13.9%)","hatchTime":"20 cycles"}
+
+[714/1025] Noibat -> https://bulbapedia.bulbagarden.net/wiki/Noibat_(Pokémon)
+  OK: {"name":"Noibat","primaryType":"Flying","secondaryType":"Dragon","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying and Dragon","height":"1'08\"","weight":"17.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"190 (35.2%)","hatchTime":"20 cycles"}
+
+[715/1025] Noivern -> https://bulbapedia.bulbagarden.net/wiki/Noivern_(Pokémon)
+  OK: {"name":"Noivern","primaryType":"Flying","secondaryType":"Dragon","forms":[],"evolutionStage":"final","preEvolvePokemon":"Noibat","eggGroups":"Flying and Dragon","height":"4'11\"","weight":"187.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

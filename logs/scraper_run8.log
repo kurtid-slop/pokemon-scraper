@@ -1,0 +1,278 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 935 Pokemon already scraped in pokemon-data.json.
+89 Pokemon left to scrape.
+
+[75/1025] Graveler -> https://bulbapedia.bulbagarden.net/wiki/Graveler_(Pokémon)
+  OK: {"name":"Graveler","primaryType":"Rock","secondaryType":"Ground","forms":["Alolan Graveler"],"evolutionStage":"2","preEvolvePokemon":"Geodude","eggGroups":"Mineral","height":"3'03\"","weight":"231.5 lbs.","genderRatio":"50% male, 50% female","catchRate":"120 (24.9%)","hatchTime":"15 cycles"}
+
+[122/1025] Mr. Mime -> https://bulbapedia.bulbagarden.net/wiki/Mr.%20Mime_(Pokémon)
+  OK: {"name":"Mr. Mime","primaryType":"Psychic","secondaryType":"Fairy","forms":["Galarian Mr"],"evolutionStage":"2","preEvolvePokemon":"Mime Jr.","eggGroups":"Human-Like","height":"4'03\"","weight":"120.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"25 cycles"}
+
+[132/1025] Ditto -> https://bulbapedia.bulbagarden.net/wiki/Ditto_(Pokémon)
+  OK: {"name":"Ditto","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Ditto","height":"1'00\"","weight":"8.8 lbs.","genderRatio":"Gender unknown","catchRate":"35 (9.9%)","hatchTime":"20 cycles"}
+
+[151/1025] Mew -> https://bulbapedia.bulbagarden.net/wiki/Mew_(Pokémon)
+  OK: {"name":"Mew","primaryType":"Psychic","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'04\"","weight":"8.8 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[213/1025] Shuckle -> https://bulbapedia.bulbagarden.net/wiki/Shuckle_(Pokémon)
+  OK: {"name":"Shuckle","primaryType":"Bug","secondaryType":"Rock","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Bug","height":"2'00\"","weight":"45.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"190 (35.2%)","hatchTime":"20 cycles"}
+
+[235/1025] Smeargle -> https://bulbapedia.bulbagarden.net/wiki/Smeargle_(Pokémon)
+  OK: {"name":"Smeargle","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"3'11\"","weight":"127.9 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[249/1025] Lugia -> https://bulbapedia.bulbagarden.net/wiki/Lugia_(Pokémon)
+  OK: {"name":"Lugia","primaryType":"Psychic","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"17'01\"","weight":"476.2 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[251/1025] Celebi -> https://bulbapedia.bulbagarden.net/wiki/Celebi_(Pokémon)
+  OK: {"name":"Celebi","primaryType":"Psychic","secondaryType":"Grass","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"2'00\"","weight":"11.0 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[324/1025] Torkoal -> https://bulbapedia.bulbagarden.net/wiki/Torkoal_(Pokémon)
+  OK: {"name":"Torkoal","primaryType":"Fire","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"1'08\"","weight":"177.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"90 (20.1%)","hatchTime":"20 cycles"}
+
+[327/1025] Spinda -> https://bulbapedia.bulbagarden.net/wiki/Spinda_(Pokémon)
+  OK: {"name":"Spinda","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field and Human-Like","height":"3'07\"","weight":"11.0 lbs.","genderRatio":"50% male, 50% female","catchRate":"255 (43.9%)","hatchTime":"15 cycles"}
+
+[335/1025] Zangoose -> https://bulbapedia.bulbagarden.net/wiki/Zangoose_(Pokémon)
+  OK: {"name":"Zangoose","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"4'03\"","weight":"88.8 lbs.","genderRatio":"50% male, 50% female","catchRate":"90 (20.1%)","hatchTime":"20 cycles"}
+
+[336/1025] Seviper -> https://bulbapedia.bulbagarden.net/wiki/Seviper_(Pokémon)
+  OK: {"name":"Seviper","primaryType":"Poison","secondaryType":"Dragon","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field and Dragon","height":"8'10\"","weight":"115.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"90 (20.1%)","hatchTime":"20 cycles"}
+
+[352/1025] Kecleon -> https://bulbapedia.bulbagarden.net/wiki/Kecleon_(Pokémon)
+  OK: {"name":"Kecleon","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"3'03\"","weight":"48.5 lbs.","genderRatio":"50% male, 50% female","catchRate":"200 (36.6%)","hatchTime":"20 cycles"}
+
+[357/1025] Tropius -> https://bulbapedia.bulbagarden.net/wiki/Tropius_(Pokémon)
+  OK: {"name":"Tropius","primaryType":"Grass","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Monster and Grass","height":"6'07\"","weight":"220.5 lbs.","genderRatio":"50% male, 50% female","catchRate":"200 (36.6%)","hatchTime":"25 cycles"}
+
+[369/1025] Relicanth -> https://bulbapedia.bulbagarden.net/wiki/Relicanth_(Pokémon)
+  OK: {"name":"Relicanth","primaryType":"Water","secondaryType":"Rock","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1 and Water 2","height":"3'03\"","weight":"51.6 lbs.","genderRatio":"87.5% male, 12.5% female","catchRate":"25 (7.7%)","hatchTime":"40 cycles"}
+
+[370/1025] Luvdisc -> https://bulbapedia.bulbagarden.net/wiki/Luvdisc_(Pokémon)
+  OK: {"name":"Luvdisc","primaryType":"Water","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 2","height":"2'00\"","weight":"19.2 lbs.","genderRatio":"25% male, 75% female","catchRate":"225 (39.9%)","hatchTime":"20 cycles"}
+
+[377/1025] Regirock -> https://bulbapedia.bulbagarden.net/wiki/Regirock_(Pokémon)
+  OK: {"name":"Regirock","primaryType":"Rock","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"5'07\"","weight":"507.1 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"80 cycles Egg not obtainable"}
+
+[378/1025] Regice -> https://bulbapedia.bulbagarden.net/wiki/Regice_(Pokémon)
+  OK: {"name":"Regice","primaryType":"Ice","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"5'11\"","weight":"385.8 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"80 cycles Egg not obtainable"}
+
+[379/1025] Registeel -> https://bulbapedia.bulbagarden.net/wiki/Registeel_(Pokémon)
+  OK: {"name":"Registeel","primaryType":"Steel","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"6'03\"","weight":"451.9 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"80 cycles Egg not obtainable"}
+
+[385/1025] Jirachi -> https://bulbapedia.bulbagarden.net/wiki/Jirachi_(Pokémon)
+  OK: {"name":"Jirachi","primaryType":"Steel","secondaryType":"Psychic","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'00\"","weight":"2.4 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[417/1025] Pachirisu -> https://bulbapedia.bulbagarden.net/wiki/Pachirisu_(Pokémon)
+  OK: {"name":"Pachirisu","primaryType":"Electric","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field and Fairy","height":"1'04\"","weight":"8.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"200 (36.6%)","hatchTime":"10 cycles"}
+
+[441/1025] Chatot -> https://bulbapedia.bulbagarden.net/wiki/Chatot_(Pokémon)
+  OK: {"name":"Chatot","primaryType":"Normal","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying","height":"1'08\"","weight":"4.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"30 (8.8%)","hatchTime":"20 cycles"}
+
+[442/1025] Spiritomb -> https://bulbapedia.bulbagarden.net/wiki/Spiritomb_(Pokémon)
+  OK: {"name":"Spiritomb","primaryType":"Ghost","secondaryType":"Dark","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Amorphous","height":"3'03\"","weight":"238.1 lbs.","genderRatio":"50% male, 50% female","catchRate":"100 (21.7%)","hatchTime":"30 cycles"}
+
+[455/1025] Carnivine -> https://bulbapedia.bulbagarden.net/wiki/Carnivine_(Pokémon)
+  OK: {"name":"Carnivine","primaryType":"Grass","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Grass","height":"4'07\"","weight":"59.5 lbs.","genderRatio":"50% male, 50% female","catchRate":"200 (36.6%)","hatchTime":"25 cycles"}
+
+[480/1025] Uxie -> https://bulbapedia.bulbagarden.net/wiki/Uxie_(Pokémon)
+  OK: {"name":"Uxie","primaryType":"Psychic","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'00\"","weight":"0.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"80 cycles Egg not obtainable"}
+
+[481/1025] Mesprit -> https://bulbapedia.bulbagarden.net/wiki/Mesprit_(Pokémon)
+  OK: {"name":"Mesprit","primaryType":"Psychic","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'00\"","weight":"0.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"80 cycles Egg not obtainable"}
+
+[482/1025] Azelf -> https://bulbapedia.bulbagarden.net/wiki/Azelf_(Pokémon)
+  OK: {"name":"Azelf","primaryType":"Psychic","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'00\"","weight":"0.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"80 cycles Egg not obtainable"}
+
+[486/1025] Regigigas -> https://bulbapedia.bulbagarden.net/wiki/Regigigas_(Pokémon)
+  OK: {"name":"Regigigas","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"12'02\"","weight":"925.9 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[488/1025] Cresselia -> https://bulbapedia.bulbagarden.net/wiki/Cresselia_(Pokémon)
+  OK: {"name":"Cresselia","primaryType":"Psychic","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"4'11\"","weight":"188.7 lbs.","genderRatio":"100% female","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[490/1025] Manaphy -> https://bulbapedia.bulbagarden.net/wiki/Manaphy_(Pokémon)
+  OK: {"name":"Manaphy","primaryType":"Water","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1 and Fairy","height":"1'00\"","weight":"3.1 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"10 cycles"}
+
+[556/1025] Maractus -> https://bulbapedia.bulbagarden.net/wiki/Maractus_(Pokémon)
+  OK: {"name":"Maractus","primaryType":"Grass","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Grass","height":"3'03\"","weight":"61.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"255 (43.9%)","hatchTime":"20 cycles"}
+
+[561/1025] Sigilyph -> https://bulbapedia.bulbagarden.net/wiki/Sigilyph_(Pokémon)
+  OK: {"name":"Sigilyph","primaryType":"Psychic","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying","height":"4'07\"","weight":"30.9 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[587/1025] Emolga -> https://bulbapedia.bulbagarden.net/wiki/Emolga_(Pokémon)
+  OK: {"name":"Emolga","primaryType":"Electric","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"1'04\"","weight":"11.0 lbs.","genderRatio":"50% male, 50% female","catchRate":"200 (36.6%)","hatchTime":"20 cycles"}
+
+[594/1025] Alomomola -> https://bulbapedia.bulbagarden.net/wiki/Alomomola_(Pokémon)
+  OK: {"name":"Alomomola","primaryType":"Water","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1 and Water 2","height":"3'11\"","weight":"69.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"75 (17.5%)","hatchTime":"40 cycles"}
+
+[615/1025] Cryogonal -> https://bulbapedia.bulbagarden.net/wiki/Cryogonal_(Pokémon)
+  OK: {"name":"Cryogonal","primaryType":"Ice","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Mineral","height":"3'07\"","weight":"326.3 lbs.","genderRatio":"Gender unknown","catchRate":"25 (7.7%)","hatchTime":"25 cycles"}
+
+[621/1025] Druddigon -> https://bulbapedia.bulbagarden.net/wiki/Druddigon_(Pokémon)
+  OK: {"name":"Druddigon","primaryType":"Dragon","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Dragon and Monster","height":"5'03\"","weight":"306.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"30 cycles"}
+
+[626/1025] Bouffalant -> https://bulbapedia.bulbagarden.net/wiki/Bouffalant_(Pokémon)
+  OK: {"name":"Bouffalant","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"5'03\"","weight":"208.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[631/1025] Heatmor -> https://bulbapedia.bulbagarden.net/wiki/Heatmor_(Pokémon)
+  OK: {"name":"Heatmor","primaryType":"Fire","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"4'07\"","weight":"127.9 lbs.","genderRatio":"50% male, 50% female","catchRate":"90 (20.1%)","hatchTime":"20 cycles"}
+
+[632/1025] Durant -> https://bulbapedia.bulbagarden.net/wiki/Durant_(Pokémon)
+  OK: {"name":"Durant","primaryType":"Bug","secondaryType":"Steel","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Bug","height":"1'00\"","weight":"72.8 lbs.","genderRatio":"50% male, 50% female","catchRate":"90 (20.1%)","hatchTime":"20 cycles"}
+
+[643/1025] Reshiram -> https://bulbapedia.bulbagarden.net/wiki/Reshiram_(Pokémon)
+  OK: {"name":"Reshiram","primaryType":"Dragon","secondaryType":"Fire","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"10'06\"","weight":"727.5 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[644/1025] Zekrom -> https://bulbapedia.bulbagarden.net/wiki/Zekrom_(Pokémon)
+  OK: {"name":"Zekrom","primaryType":"Dragon","secondaryType":"Electric","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"9'06\"","weight":"760.6 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[676/1025] Furfrou -> https://bulbapedia.bulbagarden.net/wiki/Furfrou_(Pokémon)
+  OK: {"name":"Furfrou","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"3'11\"","weight":"61.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"160 (30.9%)","hatchTime":"20 cycles"}
+
+[702/1025] Dedenne -> https://bulbapedia.bulbagarden.net/wiki/Dedenne_(Pokémon)
+  OK: {"name":"Dedenne","primaryType":"Electric","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field and Fairy","height":"0'08\"","weight":"4.9 lbs.","genderRatio":"50% male, 50% female","catchRate":"180 (33.8%)","hatchTime":"20 cycles"}
+
+[707/1025] Klefki -> https://bulbapedia.bulbagarden.net/wiki/Klefki_(Pokémon)
+  OK: {"name":"Klefki","primaryType":"Steel","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Mineral","height":"0'08\"","weight":"6.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"75 (17.5%)","hatchTime":"20 cycles"}
+
+[717/1025] Yveltal -> https://bulbapedia.bulbagarden.net/wiki/Yveltal_(Pokémon)
+  OK: {"name":"Yveltal","primaryType":"Dark","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"19'00\"","weight":"447.5 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[721/1025] Volcanion -> https://bulbapedia.bulbagarden.net/wiki/Volcanion_(Pokémon)
+  OK: {"name":"Volcanion","primaryType":"Fire","secondaryType":"Water","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"5'07\"","weight":"429.9 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[764/1025] Comfey -> https://bulbapedia.bulbagarden.net/wiki/Comfey_(Pokémon)
+  OK: {"name":"Comfey","primaryType":"Fairy","secondaryType":"Grass","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Grass","height":"0'04\"","weight":"0.7 lbs.","genderRatio":"25% male, 75% female","catchRate":"60 (14.8%)","hatchTime":"20 cycles"}
+
+[771/1025] Pyukumuku -> https://bulbapedia.bulbagarden.net/wiki/Pyukumuku_(Pokémon)
+  OK: {"name":"Pyukumuku","primaryType":"Water","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1","height":"1'00\"","weight":"2.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"60 (14.8%)","hatchTime":"15 cycles"}
+
+[775/1025] Komala -> https://bulbapedia.bulbagarden.net/wiki/Komala_(Pokémon)
+  OK: {"name":"Komala","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"1'04\"","weight":"43.9 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[776/1025] Turtonator -> https://bulbapedia.bulbagarden.net/wiki/Turtonator_(Pokémon)
+  OK: {"name":"Turtonator","primaryType":"Fire","secondaryType":"Dragon","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Monster and Dragon","height":"6'07\"","weight":"467.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"70 (16.6%)","hatchTime":"20 cycles"}
+
+[777/1025] Togedemaru -> https://bulbapedia.bulbagarden.net/wiki/Togedemaru_(Pokémon)
+  OK: {"name":"Togedemaru","primaryType":"Electric","secondaryType":"Steel","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field and Fairy","height":"1'00\"","weight":"7.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"180 (33.8%)","hatchTime":"10 cycles"}
+
+[779/1025] Bruxish -> https://bulbapedia.bulbagarden.net/wiki/Bruxish_(Pokémon)
+  OK: {"name":"Bruxish","primaryType":"Water","secondaryType":"Psychic","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 2","height":"2'11\"","weight":"41.9 lbs.","genderRatio":"50% male, 50% female","catchRate":"80 (18.4%)","hatchTime":"15 cycles"}
+
+[781/1025] Dhelmise -> https://bulbapedia.bulbagarden.net/wiki/Dhelmise_(Pokémon)
+  OK: {"name":"Dhelmise","primaryType":"Ghost","secondaryType":"Grass","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Mineral","height":"12'10\"","weight":"463.0 lbs.","genderRatio":"Gender unknown","catchRate":"25 (7.7%)","hatchTime":"25 cycles"}
+
+[785/1025] Tapu Koko -> https://bulbapedia.bulbagarden.net/wiki/Tapu%20Koko_(Pokémon)
+  OK: {"name":"Tapu Koko","primaryType":"Electric","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"5'11\"","weight":"45.2 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"15 cycles Egg not obtainable"}
+
+[786/1025] Tapu Lele -> https://bulbapedia.bulbagarden.net/wiki/Tapu%20Lele_(Pokémon)
+  OK: {"name":"Tapu Lele","primaryType":"Psychic","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"3'11\"","weight":"41.0 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"15 cycles Egg not obtainable"}
+
+[787/1025] Tapu Bulu -> https://bulbapedia.bulbagarden.net/wiki/Tapu%20Bulu_(Pokémon)
+  OK: {"name":"Tapu Bulu","primaryType":"Grass","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"6'03\"","weight":"100.3 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"15 cycles Egg not obtainable"}
+
+[788/1025] Tapu Fini -> https://bulbapedia.bulbagarden.net/wiki/Tapu%20Fini_(Pokémon)
+  OK: {"name":"Tapu Fini","primaryType":"Water","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"4'03\"","weight":"46.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"15 cycles Egg not obtainable"}
+
+[793/1025] Nihilego -> https://bulbapedia.bulbagarden.net/wiki/Nihilego_(Pokémon)
+  OK: {"name":"Nihilego","primaryType":"Rock","secondaryType":"Poison","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"3'11\"","weight":"122.4 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[794/1025] Buzzwole -> https://bulbapedia.bulbagarden.net/wiki/Buzzwole_(Pokémon)
+  OK: {"name":"Buzzwole","primaryType":"Bug","secondaryType":"Fighting","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"7'10\"","weight":"735.5 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[795/1025] Pheromosa -> https://bulbapedia.bulbagarden.net/wiki/Pheromosa_(Pokémon)
+  OK: {"name":"Pheromosa","primaryType":"Bug","secondaryType":"Fighting","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"5'11\"","weight":"55.1 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[796/1025] Xurkitree -> https://bulbapedia.bulbagarden.net/wiki/Xurkitree_(Pokémon)
+  OK: {"name":"Xurkitree","primaryType":"Electric","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"12'06\"","weight":"220.5 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[798/1025] Kartana -> https://bulbapedia.bulbagarden.net/wiki/Kartana_(Pokémon)
+  OK: {"name":"Kartana","primaryType":"Grass","secondaryType":"Steel","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'00\"","weight":"0.2 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[799/1025] Guzzlord -> https://bulbapedia.bulbagarden.net/wiki/Guzzlord_(Pokémon)
+  OK: {"name":"Guzzlord","primaryType":"Dark","secondaryType":"Dragon","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"18'01\"","weight":"1957.7 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[800/1025] Necrozma -> https://bulbapedia.bulbagarden.net/wiki/Necrozma_(Pokémon)
+  OK: {"name":"Necrozma","primaryType":"Psychic","secondaryType":"Steel","forms":["Dusk Mane Necrozma","Dawn Wings Necrozma","Ultra Necrozma"],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"7'10\"","weight":"507.1 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[802/1025] Marshadow -> https://bulbapedia.bulbagarden.net/wiki/Marshadow_(Pokémon)
+  OK: {"name":"Marshadow","primaryType":"Fighting","secondaryType":"Ghost","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"2'04\"","weight":"48.9 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[805/1025] Stakataka -> https://bulbapedia.bulbagarden.net/wiki/Stakataka_(Pokémon)
+  OK: {"name":"Stakataka","primaryType":"Rock","secondaryType":"Steel","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"18'01\"","weight":"1807.8 lbs.","genderRatio":"Gender unknown","catchRate":"30 (8.8%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[806/1025] Blacephalon -> https://bulbapedia.bulbagarden.net/wiki/Blacephalon_(Pokémon)
+  OK: {"name":"Blacephalon","primaryType":"Fire","secondaryType":"Ghost","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"5'11\"","weight":"28.7 lbs.","genderRatio":"Gender unknown","catchRate":"30 (8.8%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[871/1025] Pincurchin -> https://bulbapedia.bulbagarden.net/wiki/Pincurchin_(Pokémon)
+  OK: {"name":"Pincurchin","primaryType":"Electric","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1 and Amorphous","height":"1'00\"","weight":"2.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"75 (17.5%)","hatchTime":"20 cycles"}
+
+[874/1025] Stonjourner -> https://bulbapedia.bulbagarden.net/wiki/Stonjourner_(Pokémon)
+  OK: {"name":"Stonjourner","primaryType":"Rock","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Mineral","height":"8'02\"","weight":"1146.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"60 (14.8%)","hatchTime":"25 cycles"}
+
+[876/1025] Indeedee -> https://bulbapedia.bulbagarden.net/wiki/Indeedee_(Pokémon)
+  OK: {"name":"Indeedee","primaryType":"Psychic","secondaryType":"Normal","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Fairy","height":"2'11\"","weight":"61.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"30 (8.8%)","hatchTime":"40 cycles"}
+
+[894/1025] Regieleki -> https://bulbapedia.bulbagarden.net/wiki/Regieleki_(Pokémon)
+  OK: {"name":"Regieleki","primaryType":"Electric","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"3'11\"","weight":"319.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[895/1025] Regidrago -> https://bulbapedia.bulbagarden.net/wiki/Regidrago_(Pokémon)
+  OK: {"name":"Regidrago","primaryType":"Dragon","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"6'11\"","weight":"440.9 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[896/1025] Glastrier -> https://bulbapedia.bulbagarden.net/wiki/Glastrier_(Pokémon)
+  OK: {"name":"Glastrier","primaryType":"Ice","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"7'03\"","weight":"1763.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[897/1025] Spectrier -> https://bulbapedia.bulbagarden.net/wiki/Spectrier_(Pokémon)
+  OK: {"name":"Spectrier","primaryType":"Ghost","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"6'07\"","weight":"98.1 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[931/1025] Squawkabilly -> https://bulbapedia.bulbagarden.net/wiki/Squawkabilly_(Pokémon)
+  OK: {"name":"Squawkabilly","primaryType":"Normal","secondaryType":"Flying","forms":["Green Plumage","Blue Plumage","Yellow Plumage","White Plumage"],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying","height":"2'00\"","weight":"5.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"190 (35.2%)","hatchTime":"15 cycles"}
+
+[950/1025] Klawf -> https://bulbapedia.bulbagarden.net/wiki/Klawf_(Pokémon)
+  OK: {"name":"Klawf","primaryType":"Rock","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 3","height":"4'03\"","weight":"174.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"120 (24.9%)","hatchTime":"35 cycles"}
+
+[962/1025] Bombirdier -> https://bulbapedia.bulbagarden.net/wiki/Bombirdier_(Pokémon)
+  OK: {"name":"Bombirdier","primaryType":"Flying","secondaryType":"Dark","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying","height":"4'11\"","weight":"94.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"25 (7.7%)","hatchTime":"35 cycles"}
+
+[968/1025] Orthworm -> https://bulbapedia.bulbagarden.net/wiki/Orthworm_(Pokémon)
+  OK: {"name":"Orthworm","primaryType":"Steel","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"8'02\"","weight":"683.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"25 (7.7%)","hatchTime":"35 cycles"}
+
+[973/1025] Flamigo -> https://bulbapedia.bulbagarden.net/wiki/Flamigo_(Pokémon)
+  OK: {"name":"Flamigo","primaryType":"Flying","secondaryType":"Fighting","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying","height":"5'03\"","weight":"81.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"100 (21.7%)","hatchTime":"20 cycles"}
+
+[976/1025] Veluza -> https://bulbapedia.bulbagarden.net/wiki/Veluza_(Pokémon)
+  OK: {"name":"Veluza","primaryType":"Water","secondaryType":"Psychic","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 2","height":"8'02\"","weight":"198.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"100 (21.7%)","hatchTime":"20 cycles"}
+
+[977/1025] Dondozo -> https://bulbapedia.bulbagarden.net/wiki/Dondozo_(Pokémon)
+  OK: {"name":"Dondozo","primaryType":"Water","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 2","height":"39'04\"","weight":"485.0 lbs.","genderRatio":"50% male, 50% female","catchRate":"25 (7.7%)","hatchTime":"40 cycles"}
+
+[1001/1025] Wo-Chien -> https://bulbapedia.bulbagarden.net/wiki/Wo-Chien_(Pokémon)
+  OK: {"name":"Wo-Chien","primaryType":"Dark","secondaryType":"Grass","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"4'11\"","weight":"163.6 lbs.","genderRatio":"Gender unknown","catchRate":"6 (2.6%)","hatchTime":"50 cycles Egg not obtainable"}
+
+[1002/1025] Chien-Pao -> https://bulbapedia.bulbagarden.net/wiki/Chien-Pao_(Pokémon)
+  OK: {"name":"Chien-Pao","primaryType":"Dark","secondaryType":"Ice","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"6'03\"","weight":"335.5 lbs.","genderRatio":"Gender unknown","catchRate":"6 (2.6%)","hatchTime":"50 cycles Egg not obtainable"}
+
+[1003/1025] Ting-Lu -> https://bulbapedia.bulbagarden.net/wiki/Ting-Lu_(Pokémon)
+  OK: {"name":"Ting-Lu","primaryType":"Dark","secondaryType":"Ground","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"8'10\"","weight":"1542.6 lbs.","genderRatio":"Gender unknown","catchRate":"6 (2.6%)","hatchTime":"50 cycles Egg not obtainable"}
+
+[1004/1025] Chi-Yu -> https://bulbapedia.bulbagarden.net/wiki/Chi-Yu_(Pokémon)
+  OK: {"name":"Chi-Yu","primaryType":"Dark","secondaryType":"Fire","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'04\"","weight":"10.8 lbs.","genderRatio":"Gender unknown","catchRate":"6 (2.6%)","hatchTime":"50 cycles Egg not obtainable"}
+
+[1014/1025] Okidogi -> https://bulbapedia.bulbagarden.net/wiki/Okidogi_(Pokémon)
+  OK: {"name":"Okidogi","primaryType":"Poison","secondaryType":"Fighting","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"5'11\"","weight":"203.3 lbs.","genderRatio":"100% male","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[1015/1025] Munkidori -> https://bulbapedia.bulbagarden.net/wiki/Munkidori_(Pokémon)
+  OK: {"name":"Munkidori","primaryType":"Poison","secondaryType":"Psychic","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"3'03\"","weight":"26.9 lbs.","genderRatio":"100% male","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[1016/1025] Fezandipiti -> https://bulbapedia.bulbagarden.net/wiki/Fezandipiti_(Pokémon)
+  OK: {"name":"Fezandipiti","primaryType":"Poison","secondaryType":"Fairy","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"4'07\"","weight":"66.4 lbs.","genderRatio":"100% male","catchRate":"3 (1.6%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[1025/1025] Pecharunt -> https://bulbapedia.bulbagarden.net/wiki/Pecharunt_(Pokémon)
+  OK: {"name":"Pecharunt","primaryType":"Poison","secondaryType":"Ghost","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"1'00\"","weight":"0.7 lbs.","genderRatio":"Gender unknown","catchRate":"3 (1.6%)","hatchTime":"20 cycles Egg not obtainable"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

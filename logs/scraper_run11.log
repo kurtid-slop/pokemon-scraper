@@ -1,0 +1,14 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1023 Pokemon already scraped in pokemon-data.json.
+1 Pokemon left to scrape.
+
+[25/1025] Pikachu -> https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pokémon)
+  OK: {"name":"Pikachu","primaryType":"Electric","secondaryType":"Fairy","forms":["Cosplay Pikachu","Pikachu in a cap","Gigantamax Pikachu","Pale Pikachu","Partner Pikachu"],"evolutionStage":"2","preEvolvePokemon":"Pichu","eggGroups":"Field and Fairy or No Eggs Discovered","height":"1'04\"","weight":"13.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"190 (35.2%)","hatchTime":"10 cycles"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

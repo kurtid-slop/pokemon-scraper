@@ -1,0 +1,14 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1023 Pokemon already scraped in pokemon-data.json.
+1 Pokemon left to scrape.
+
+[658/1025] Greninja -> https://bulbapedia.bulbagarden.net/wiki/Greninja_(Pokémon)
+  OK: {"name":"Greninja","primaryType":"Water","secondaryType":"Dark","forms":["Ash-Greninja","Mega Greninja"],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1 or No Eggs Discovered","height":"4'11\"","weight":"88.2 lbs.","genderRatio":"87.5% male, 12.5% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

@@ -1,0 +1,32 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1017 Pokemon already scraped in pokemon-data.json.
+7 Pokemon left to scrape.
+
+[20/1025] Raticate -> https://bulbapedia.bulbagarden.net/wiki/Raticate_(Pokémon)
+  OK: {"name":"Raticate","primaryType":"Normal","secondaryType":"Dark","forms":["Alolan Raticate"],"evolutionStage":"final","preEvolvePokemon":"Rattata","eggGroups":"Field","height":"2'04\"","weight":"40.8 lbs.","genderRatio":"50% male, 50% female","catchRate":"127 (26%)","hatchTime":"15 cycles"}
+
+[26/1025] Raichu -> https://bulbapedia.bulbagarden.net/wiki/Raichu_(Pokémon)
+  OK: {"name":"Raichu","primaryType":"Electric","secondaryType":"Psychic","forms":["Alolan Raichu","Mega Raichu X","Mega Raichu Y"],"evolutionStage":"final","preEvolvePokemon":"Pikachu","eggGroups":"Field and Fairy","height":"2'07\"","weight":"66.1 lbs.","genderRatio":"50% male, 50% female","catchRate":"75 (17.5%)","hatchTime":"10 cycles"}
+
+[274/1025] Nuzleaf -> https://bulbapedia.bulbagarden.net/wiki/Nuzleaf_(Pokémon)
+  OK: {"name":"Nuzleaf","primaryType":"Grass","secondaryType":"Dark","forms":[],"evolutionStage":"2","preEvolvePokemon":"Seedot","eggGroups":"Field and Grass","height":"3'03\"","weight":"61.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"120 (24.9%)","hatchTime":"15 cycles"}
+
+[866/1025] Mr. Rime -> https://bulbapedia.bulbagarden.net/wiki/Mr.%20Rime_(Pokémon)
+  OK: {"name":"Mr. Rime","primaryType":"Ice","secondaryType":"Psychic","forms":[],"evolutionStage":"final","preEvolvePokemon":"Mr. Mime","eggGroups":"Human-Like","height":"4'11\"","weight":"128.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"25 cycles"}
+
+[899/1025] Wyrdeer -> https://bulbapedia.bulbagarden.net/wiki/Wyrdeer_(Pokémon)
+  OK: {"name":"Wyrdeer","primaryType":"Normal","secondaryType":"Psychic","forms":[],"evolutionStage":"final","preEvolvePokemon":"","eggGroups":"Field","height":"5'11\"","weight":"209.7 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[900/1025] Kleavor -> https://bulbapedia.bulbagarden.net/wiki/Kleavor_(Pokémon)
+  OK: {"name":"Kleavor","primaryType":"Bug","secondaryType":"Rock","forms":[],"evolutionStage":"final","preEvolvePokemon":"Scizor","eggGroups":"Bug","height":"5'11\"","weight":"196.2 lbs.","genderRatio":"50% male, 50% female","catchRate":"15 (5.2%)","hatchTime":"20 cycles"}
+
+[901/1025] Ursaluna -> https://bulbapedia.bulbagarden.net/wiki/Ursaluna_(Pokémon)
+  OK: {"name":"Ursaluna","primaryType":"Ground","secondaryType":"Normal","forms":[],"evolutionStage":"final","preEvolvePokemon":"","eggGroups":"Field","height":"7'10\"","weight":"639.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"20 (6.5%)","hatchTime":"20 cycles"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

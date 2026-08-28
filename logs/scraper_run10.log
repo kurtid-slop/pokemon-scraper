@@ -1,0 +1,56 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1009 Pokemon already scraped in pokemon-data.json.
+15 Pokemon left to scrape.
+
+[118/1025] Goldeen -> https://bulbapedia.bulbagarden.net/wiki/Goldeen_(Pokémon)
+  OK: {"name":"Goldeen","primaryType":"Water","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 2","height":"2'00\"","weight":"33.1 lbs.","genderRatio":"50% male, 50% female","catchRate":"225 (39.9%)","hatchTime":"20 cycles"}
+
+[158/1025] Totodile -> https://bulbapedia.bulbagarden.net/wiki/Totodile_(Pokémon)
+  OK: {"name":"Totodile","primaryType":"Water","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Monster and Water 1","height":"2'00\"","weight":"20.9 lbs.","genderRatio":"87.5% male, 12.5% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[168/1025] Ariados -> https://bulbapedia.bulbagarden.net/wiki/Ariados_(Pokémon)
+  OK: {"name":"Ariados","primaryType":"Bug","secondaryType":"Poison","forms":[],"evolutionStage":"final","preEvolvePokemon":"Spinarak","eggGroups":"Bug","height":"3'07\"","weight":"73.9 lbs.","genderRatio":"50% male, 50% female","catchRate":"90 (20.1%)","hatchTime":"15 cycles"}
+
+[190/1025] Aipom -> https://bulbapedia.bulbagarden.net/wiki/Aipom_(Pokémon)
+  OK: {"name":"Aipom","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"2'07\"","weight":"25.4 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[196/1025] Espeon -> https://bulbapedia.bulbagarden.net/wiki/Espeon_(Pokémon)
+  OK: {"name":"Espeon","primaryType":"Psychic","secondaryType":"","forms":[],"evolutionStage":"final","preEvolvePokemon":"Eevee","eggGroups":"Field","height":"2'11\"","weight":"58.4 lbs.","genderRatio":"87.5% male, 12.5% female","catchRate":"45 (11.9%)","hatchTime":"35 cycles"}
+
+[205/1025] Forretress -> https://bulbapedia.bulbagarden.net/wiki/Forretress_(Pokémon)
+  OK: {"name":"Forretress","primaryType":"Bug","secondaryType":"Steel","forms":[],"evolutionStage":"final","preEvolvePokemon":"Pineco","eggGroups":"Bug","height":"3'11\"","weight":"277.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"75 (17.5%)","hatchTime":"20 cycles"}
+
+[211/1025] Qwilfish -> https://bulbapedia.bulbagarden.net/wiki/Qwilfish_(Pokémon)
+  OK: {"name":"Qwilfish","primaryType":"Water","secondaryType":"Poison","forms":["Hisuian Qwilfish"],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 2","height":"1'08\"","weight":"8.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[222/1025] Corsola -> https://bulbapedia.bulbagarden.net/wiki/Corsola_(Pokémon)
+  OK: {"name":"Corsola","primaryType":"Water","secondaryType":"Rock","forms":["Galarian Corsola"],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1 and Water 3","height":"2'00\"","weight":"11.0 lbs.","genderRatio":"25% male, 75% female","catchRate":"60 (14.8%)","hatchTime":"20 cycles"}
+
+[225/1025] Delibird -> https://bulbapedia.bulbagarden.net/wiki/Delibird_(Pokémon)
+  OK: {"name":"Delibird","primaryType":"Ice","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Water 1 and Field","height":"2'11\"","weight":"35.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[228/1025] Houndour -> https://bulbapedia.bulbagarden.net/wiki/Houndour_(Pokémon)
+  OK: {"name":"Houndour","primaryType":"Dark","secondaryType":"Fire","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field","height":"2'00\"","weight":"23.8 lbs.","genderRatio":"50% male, 50% female","catchRate":"120 (24.9%)","hatchTime":"20 cycles"}
+
+[230/1025] Kingdra -> https://bulbapedia.bulbagarden.net/wiki/Kingdra_(Pokémon)
+  OK: {"name":"Kingdra","primaryType":"Water","secondaryType":"Dragon","forms":[],"evolutionStage":"final","preEvolvePokemon":"Seadra","eggGroups":"Water 1 and Dragon","height":"5'11\"","weight":"335.1 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[232/1025] Donphan -> https://bulbapedia.bulbagarden.net/wiki/Donphan_(Pokémon)
+  OK: {"name":"Donphan","primaryType":"Ground","secondaryType":"","forms":[],"evolutionStage":"final","preEvolvePokemon":"Phanpy","eggGroups":"Field","height":"3'07\"","weight":"264.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"60 (14.8%)","hatchTime":"20 cycles"}
+
+[233/1025] Porygon2 -> https://bulbapedia.bulbagarden.net/wiki/Porygon2_(Pokémon)
+  OK: {"name":"Porygon2","primaryType":"Normal","secondaryType":"","forms":[],"evolutionStage":"2","preEvolvePokemon":"Porygon","eggGroups":"Mineral","height":"2'00\"","weight":"71.7 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[390/1025] Chimchar -> https://bulbapedia.bulbagarden.net/wiki/Chimchar_(Pokémon)
+  OK: {"name":"Chimchar","primaryType":"Fire","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Field and Human-Like","height":"1'08\"","weight":"13.7 lbs.","genderRatio":"87.5% male, 12.5% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[391/1025] Monferno -> https://bulbapedia.bulbagarden.net/wiki/Monferno_(Pokémon)
+  OK: {"name":"Monferno","primaryType":"Fire","secondaryType":"Fighting","forms":[],"evolutionStage":"2","preEvolvePokemon":"Chimchar","eggGroups":"Field and Human-Like","height":"2'11\"","weight":"48.5 lbs.","genderRatio":"87.5% male, 12.5% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+==============================
+Done. Scraped 1024/1025 Pokemon.
+Saved to pokemon-data.json
+==============================
+

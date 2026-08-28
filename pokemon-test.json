@@ -1,0 +1,17 @@
+{
+  "name": "Venusaur",
+  "primaryType": "Grass",
+  "secondaryType": "Poison",
+  "forms": [
+    "Mega Venusaur",
+    "Gigantamax Venusaur"
+  ],
+  "evolutionStage": "final",
+  "preEvolvePokemon": "Ivysaur",
+  "eggGroups": "Monster and Grass",
+  "height": "6'07\"",
+  "weight": "220.5 lbs.",
+  "genderRatio": "87.5% male, 12.5% female",
+  "catchRate": "45 (11.9%)",
+  "hatchTime": "20 cycles"
+}

@@ -1,0 +1,35 @@
+Launching browser...
+Browser launched.
+Found 1025 Pokemon in CSV
+Resuming: 1022 Pokemon already scraped in pokemon-data.json.
+7 Pokemon left to scrape.
+
+[83/1025] Farfetchd -> https://bulbapedia.bulbagarden.net/wiki/Farfetchd_(Pokémon)
+  OK: {"name":"Farfetch'd","primaryType":"Normal","secondaryType":"Flying","forms":["Galarian Farfetch'd"],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Flying and Field","height":"2'07\"","weight":"33.1 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"20 cycles"}
+
+[250/1025] Ho-oh -> https://bulbapedia.bulbagarden.net/wiki/Ho-oh_(Pokémon)
+  WARNING: no infobox found for Ho-oh, skipping.
+
+[338/1025] Solrock -> https://bulbapedia.bulbagarden.net/wiki/Solrock_(Pokémon)
+  OK: {"name":"Solrock","primaryType":"Rock","secondaryType":"Psychic","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Mineral","height":"3'11\"","weight":"339.5 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"25 cycles"}
+
+[664/1025] Scatterbug -> https://bulbapedia.bulbagarden.net/wiki/Scatterbug_(Pokémon)
+  OK: {"name":"Scatterbug","primaryType":"Bug","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Bug","height":"1'00\"","weight":"5.5 lbs.","genderRatio":"50% male, 50% female","catchRate":"255 (43.9%)","hatchTime":"15 cycles"}
+
+[797/1025] Celesteela -> https://bulbapedia.bulbagarden.net/wiki/Celesteela_(Pokémon)
+  OK: {"name":"Celesteela","primaryType":"Steel","secondaryType":"Flying","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"No Eggs Discovered","height":"30'02\"","weight":"2204.4 lbs.","genderRatio":"Gender unknown","catchRate":"45 (11.9%)","hatchTime":"120 cycles Egg not obtainable"}
+
+[824/1025] Blipbug -> https://bulbapedia.bulbagarden.net/wiki/Blipbug_(Pokémon)
+  OK: {"name":"Blipbug","primaryType":"Bug","secondaryType":"","forms":[],"evolutionStage":"1","preEvolvePokemon":"","eggGroups":"Bug","height":"1'04\"","weight":"17.6 lbs.","genderRatio":"50% male, 50% female","catchRate":"255 (43.9%)","hatchTime":"15 cycles"}
+
+[866/1025] Mr. Rime -> https://bulbapedia.bulbagarden.net/wiki/Mr.%20Rime_(Pokémon)
+  OK: {"name":"Mr. Rime","primaryType":"Ice","secondaryType":"Psychic","forms":[],"evolutionStage":"final","preEvolvePokemon":"","eggGroups":"Human-Like","height":"4'11\"","weight":"128.3 lbs.","genderRatio":"50% male, 50% female","catchRate":"45 (11.9%)","hatchTime":"25 cycles"}
+
+==============================
+Done. Scraped 1028/1025 Pokemon.
+Saved to pokemon-data.json
+
+1 failure(s):
+  - Ho-oh: No infobox found
+==============================
+
