@@ -1,6 +1,6 @@
 # Pokemon Scraper
 
-Scrapes Pokemon data from Bulbapedia and merges it with the local Pokedex CSV.
+Scrapes Pokemon data from Bulbapedia and converts it into a csv file.
 
 ## Requirements
 
